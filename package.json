@@ -1,0 +1,14 @@
+{
+  "name": "chewy",
+  "version": "0.0.1",
+  "description": "Chewy",
+  "main": "chewy.js",
+  "scripts": {
+    "start": "node chewy.js"
+  },
+  "keywords": [
+    "Chewy",
+    "Glitch",
+    "Visual"
+  ]
+}
